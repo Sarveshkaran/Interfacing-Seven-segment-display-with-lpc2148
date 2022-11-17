@@ -1,13 +1,13 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	
-Roll no 
+Name: SARVESHKARAN VK
+Roll no : 212221230089
 Date of experiment:
 
 
 
-Ex. No. :
-Date: 
+Ex. No. : 08
+Date: 17/11/22
  
 
 ### Aim: To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
@@ -62,3 +62,16 @@ Sl no 	Hex code 	Output of LCD
 LED seven segment display is interfaced and displayed alpha numeric characters 
 
 ##  Output screen shots :
+
+### Display off:
+![ex 8 off](https://user-images.githubusercontent.com/94828138/202346443-f5d56563-8f2c-4826-accf-c2c83ef5dd6f.png)
+
+
+### Display on:
+![ex8](https://user-images.githubusercontent.com/94828138/202346504-4ecbc483-575c-4bbb-ae5f-4ef7d2752356.png)
+![ex8 1](https://user-images.githubusercontent.com/94828138/202346527-692e0adb-1fc3-4ad3-bcff-f559bed6a167.png)
+
+
+### Layout diagram:
+![ex8 pdf](https://user-images.githubusercontent.com/94828138/202346608-0404e8e6-a509-4665-bac7-651fcdd5b576.png)
+
