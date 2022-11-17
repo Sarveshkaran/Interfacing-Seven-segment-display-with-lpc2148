@@ -111,3 +111,7 @@ LED seven segment display is interfaced and displayed alpha numeric characters
 ### Layout diagram:
 ![ex8 pdf](https://user-images.githubusercontent.com/94828138/202346608-0404e8e6-a509-4665-bac7-651fcdd5b576.png)
 
+
+Result:
+   
+   LED SEVEN SEGMENT DISPLAY IS INTERFACED AND DISPLAYED ALPHA NUMERIC CHARACTERS
