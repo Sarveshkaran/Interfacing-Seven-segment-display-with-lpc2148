@@ -94,8 +94,7 @@ unsigned char dig[]={0x88,0xeb,0x4c,0x49,0x2b,0x19,0x18,0xcb,0x8,0x9,0xa,0x38,0x
  
 
 
-### Result :
-LED seven segment display is interfaced and displayed alpha numeric characters 
+
 
 ##  Output screen shots :
 
@@ -112,6 +111,6 @@ LED seven segment display is interfaced and displayed alpha numeric characters
 ![ex8 pdf](https://user-images.githubusercontent.com/94828138/202346608-0404e8e6-a509-4665-bac7-651fcdd5b576.png)
 
 
-Result:
+## Result:
    
    LED SEVEN SEGMENT DISPLAY IS INTERFACED AND DISPLAYED ALPHA NUMERIC CHARACTERS
